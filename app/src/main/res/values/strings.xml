@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ScreenTransfer</string>
+    <string name="let_s_get_s">Let\'s Get Started</string>
+    <string name="grow_togeth">Grow Together</string>
+    <string name="joın_now">JOIN NOW</string>
+    <string name="imageview3">TODO</string>
+    <string name="imageview2">TODO</string>
+    <string name="imageview1">TODO</string>
+    <string name="welcome_bac">Welcome Back!</string>
+    <string name="enter_your">Enter Your Username &amp; Password</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logın">Logın</string>
+    <string name="enter_your_">Enter Your Username &amp; Password</string>
+    <string name="forgotten_p">Forgotten Passwoard?</string>
+    <string name="or_create_a">Or Create a New Account</string>
+    <string name="create_account">Create Account :)</string>
+    <string name="enter_email_id">Enter Email Id</string>
+    <string name="create_username">Create Username</string>
+    <string name="create_passward">Create Passward</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
